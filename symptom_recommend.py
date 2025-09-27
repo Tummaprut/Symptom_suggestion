@@ -1,4 +1,4 @@
-# symptom_recommender.py
+# symptom_recommend.py
 import pandas as pd, numpy as np, re, json, math
 from collections import Counter
 
